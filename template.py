@@ -21,7 +21,6 @@ list_of_files = [
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    f"notebook/data/"
 ]
 
 for filepath in list_of_files:
