@@ -20,7 +20,8 @@ list_of_files = [
     "app.py",
     "Dockerfile",
     "requirements.txt",
-    "setup.py"
+    "setup.py",
+    f"notebook/data/"
 ]
 
 for filepath in list_of_files:

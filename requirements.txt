@@ -5,3 +5,7 @@ mysql-connector-python
 pymysql
 scikit-learn
 sqlalchemy
+matplotlib
+seaborn
+catboost
+xgboost
