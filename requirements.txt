@@ -9,3 +9,5 @@ matplotlib
 seaborn
 catboost
 xgboost
+mlflow
+dagshub
